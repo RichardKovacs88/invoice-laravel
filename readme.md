@@ -21,12 +21,3 @@ Current Laravel version suported 5.8
 |--|--|--|
 |richard|123123|admin|
 |user|123123|staff|
-
-
-## Enhances
-I've got a few idea on this partial project such as :
-1. Daily income and expenses for the individual, family or/and organisations (a very simple one that is and easy to operate and understand)
-
-
-## More info.
-contact me if u r interested to make something awesome! @kroos# invoice-laravel
