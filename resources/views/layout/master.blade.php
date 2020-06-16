@@ -37,7 +37,7 @@
 			@show
 		</div>
 		<div class="footer">
-			<p class="text-center">copyright : terajutara resources (m) sdn bhd {!! date('Y') !!}</p>
+			<p class="text-center">copyright : richard.kovacs.dev@gmail.com 2017</p>
 		</div>
 	</div>
 </div>
