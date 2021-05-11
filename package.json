@@ -14,7 +14,7 @@
     "bootstrap-sass": "^3.4.1",
     "cross-env": "^3.2.3",
     "jquery": "^3.5.1",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   },
   "dependencies": {
     "@claviska/jquery-minicolors": "^2.3.4",
